@@ -1,1 +1,2 @@
-# 충돌 confict만들기 
+# git-3
+## 충돌 confict만들기 
